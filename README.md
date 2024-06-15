@@ -76,7 +76,3 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### 16. * 
 * All the above options work well together.
-
----
-# Author: 
-[Oluwatimilehin Bello](https://github.com/Timilehin-bello) and [Nicole Adeyemi](https://github.com/adenicole)
